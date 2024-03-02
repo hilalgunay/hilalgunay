@@ -10,7 +10,7 @@
 **Software Engineer in Test helping software engineers to develop their quality mindset and deliver bug-free software.**
 <br/>
 * 🤖   I’m a QA Engineer in Test 
-* ❓   Ask me about kodlayankim 
+* ❓   Ask me about hilallgunay48@gmail.com 
 * 🌱   I’m currently learning Selenium, Appium,
 * 🤔   I’m looking for help with Business Opportunity
 * 📫   How to reach me: hilallgunay48@gmail.com 
